@@ -42,7 +42,7 @@ The Property Finance Dashboard is a Django web application that allows users to 
    python manage.py migrate
    python manage.py shell
 
-4. Start virtual environemnt:
+4. Start virtual environment:
    cd env/scripts  # go to scripts folder to activate env
    activate
    python manage.py runserver
